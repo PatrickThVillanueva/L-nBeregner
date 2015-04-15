@@ -9,6 +9,7 @@ tech mappen:
 Alt data skabes, gemmes og hentes på dette niveau. 
 Settings.java og Workday.java er objekter.
 WorkdayDataStructure.java er specialisten i at få information ud fra databasen ang. Workday.
+Der vil blive udviklet en tilsvarende til Settings når WorkdayDataStructure er funktionel (copy+pasta)
 SQLHelper.java bliver broen mellem SQLite databasen og vores app.
 
 Controller.java:
